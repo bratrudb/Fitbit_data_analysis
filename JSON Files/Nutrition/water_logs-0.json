@@ -1,0 +1,41 @@
+[{
+  "id" : 7609444763,
+  "date" : "08/25/20",
+  "waterAmount" : 16.0,
+  "measurementUnit" : "FL_OZ"
+},{
+  "id" : 7609692851,
+  "date" : "08/25/20",
+  "waterAmount" : 32.0,
+  "measurementUnit" : "FL_OZ"
+},{
+  "id" : 7623012207,
+  "date" : "08/30/20",
+  "waterAmount" : 32.0,
+  "measurementUnit" : "FL_OZ"
+},{
+  "id" : 7623429533,
+  "date" : "08/30/20",
+  "waterAmount" : 32.0,
+  "measurementUnit" : "FL_OZ"
+},{
+  "id" : 7624960240,
+  "date" : "08/31/20",
+  "waterAmount" : 16.0,
+  "measurementUnit" : "FL_OZ"
+},{
+  "id" : 7624701433,
+  "date" : "08/31/20",
+  "waterAmount" : 16.0,
+  "measurementUnit" : "FL_OZ"
+},{
+  "id" : 7756748299,
+  "date" : "10/19/20",
+  "waterAmount" : 32.0,
+  "measurementUnit" : "FL_OZ"
+},{
+  "id" : 7756456635,
+  "date" : "10/19/20",
+  "waterAmount" : 32.0,
+  "measurementUnit" : "FL_OZ"
+}]

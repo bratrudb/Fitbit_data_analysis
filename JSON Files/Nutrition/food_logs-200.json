@@ -1,0 +1,2539 @@
+[{
+  "logId" : 25126595060,
+  "loggedFood" : {
+    "foodId" : 81807,
+    "locale" : "en_US",
+    "name" : "Pecan Roll",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [290,304,226,180,147,389],
+    "calories" : 586,
+    "amount" : 5.25,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2021-02-27",
+  "favorite" : false
+},{
+  "logId" : 25123580550,
+  "loggedFood" : {
+    "foodId" : 14711288,
+    "locale" : "en_US",
+    "name" : "Protein Chewy Bars, Peanut Butter Dark Chocolate",
+    "brand" : "Nature Valley",
+    "accessLevel" : "PUBLIC",
+    "units" : [17,226,180,147,389],
+    "calories" : 190,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 17,
+      "name" : "bar",
+      "plural" : "bars"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 190,
+    "fat" : 12.0,
+    "fiber" : 5.0,
+    "carbs" : 14.0,
+    "sodium" : 180.0,
+    "protein" : 10.0
+  },
+  "logDate" : "2021-02-26",
+  "favorite" : false
+},{
+  "logId" : 25125379737,
+  "loggedFood" : {
+    "foodId" : 691517996,
+    "locale" : "en_US",
+    "name" : "Sea Salt & Vinager Chips",
+    "brand" : "Erbert & Gerbert's",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 190,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 190,
+    "fat" : 10.0,
+    "fiber" : 2.0,
+    "carbs" : 23.0,
+    "sodium" : 400.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2021-02-26",
+  "favorite" : false
+},{
+  "logId" : 25119836340,
+  "loggedFood" : {
+    "foodId" : 783128027,
+    "locale" : "en_US",
+    "name" : "Apollo Sandwich on Wheat Wrap",
+    "brand" : "Erbert & Gerbert's",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 760,
+    "amount" : 342.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 760,
+    "fat" : 40.0,
+    "fiber" : 7.0,
+    "carbs" : 73.0,
+    "sodium" : 2160.0,
+    "protein" : 34.0
+  },
+  "logDate" : "2021-02-26",
+  "favorite" : false
+},{
+  "logId" : 25114295314,
+  "loggedFood" : {
+    "foodId" : 721624070,
+    "locale" : "en_US",
+    "name" : "Grade A Large Eggs",
+    "brand" : "Country Line",
+    "accessLevel" : "PUBLIC",
+    "units" : [111,226,180,147,389],
+    "calories" : 280,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 111,
+      "name" : "egg",
+      "plural" : "eggs"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 280,
+    "fat" : 20.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 280.0,
+    "protein" : 24.0
+  },
+  "logDate" : "2021-02-26",
+  "favorite" : false
+},{
+  "logId" : 25115553573,
+  "loggedFood" : {
+    "foodId" : 82031,
+    "locale" : "en_US",
+    "name" : "Leek",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [184,311,91,256,279,226,180,147,389],
+    "calories" : 52,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2021-02-26",
+  "favorite" : false
+},{
+  "logId" : 25122731082,
+  "loggedFood" : {
+    "foodId" : 744930557,
+    "locale" : "en_US",
+    "name" : "Multi-Grain Bread",
+    "brand" : "Brownberry",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,226,180,147,389],
+    "calories" : 220,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 220,
+    "fat" : 4.0,
+    "fiber" : 6.0,
+    "carbs" : 38.0,
+    "sodium" : 340.0,
+    "protein" : 10.0
+  },
+  "logDate" : "2021-02-26",
+  "favorite" : false
+},{
+  "logId" : 25118287472,
+  "loggedFood" : {
+    "foodId" : 22789286,
+    "locale" : "en_US",
+    "name" : "Almonds 50% Less Salt, Dry Roasted & Salted",
+    "brand" : "Trader Joe's Nuts",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 238,
+    "amount" : 0.33,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 238,
+    "fat" : 21.12,
+    "fiber" : 5.28,
+    "carbs" : 7.92,
+    "sodium" : 79.2,
+    "protein" : 9.24
+  },
+  "logDate" : "2021-02-26",
+  "favorite" : false
+},{
+  "logId" : 25117658258,
+  "loggedFood" : {
+    "foodId" : 743952355,
+    "locale" : "en_US",
+    "name" : "Orange Marmalade",
+    "brand" : "Best Choice",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 50,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 50,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 13.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2021-02-26",
+  "favorite" : false
+},{
+  "logId" : 25116507915,
+  "loggedFood" : {
+    "foodId" : 81000,
+    "locale" : "en_US",
+    "name" : "Banana",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [16,121,120,304,319,204,179,91,256,279,226,180,147,389],
+    "calories" : 90,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2021-02-26",
+  "favorite" : false
+},{
+  "logId" : 25116045631,
+  "loggedFood" : {
+    "foodId" : 742324617,
+    "locale" : "en_US",
+    "name" : "Trop 50 Orange Juice",
+    "brand" : "Tropicana",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401],
+    "calories" : 50,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 50,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 13.0,
+    "sodium" : 10.0,
+    "protein" : 0.5
+  },
+  "logDate" : "2021-02-26",
+  "favorite" : false
+},{
+  "logId" : 25116527183,
+  "loggedFood" : {
+    "foodId" : 14724782,
+    "locale" : "en_US",
+    "name" : "Creamy Peanut Butter",
+    "brand" : "Jif",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 190,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 190,
+    "fat" : 16.0,
+    "fiber" : 2.0,
+    "carbs" : 8.0,
+    "sodium" : 140.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2021-02-26",
+  "favorite" : false
+},{
+  "logId" : 25117266556,
+  "loggedFood" : {
+    "foodId" : 692777597,
+    "locale" : "en_US",
+    "name" : "Oats",
+    "brand" : "Quaker",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 150,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 150,
+    "fat" : 3.0,
+    "fiber" : 4.0,
+    "carbs" : 27.0,
+    "sodium" : 0.0,
+    "protein" : 5.0
+  },
+  "logDate" : "2021-02-26",
+  "favorite" : false
+},{
+  "logId" : 25115033010,
+  "loggedFood" : {
+    "foodId" : 721627886,
+    "locale" : "en_US",
+    "name" : "Psyllium Husk Powder, Organic",
+    "brand" : "Viva Naturals",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 15,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 364,
+      "name" : "tsp",
+      "plural" : "tsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 15,
+    "fat" : 0.0,
+    "fiber" : 4.0,
+    "carbs" : 4.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2021-02-26",
+  "favorite" : false
+},{
+  "logId" : 25110649803,
+  "loggedFood" : {
+    "foodId" : 14731799,
+    "locale" : "en_US",
+    "name" : "Cheerios",
+    "brand" : "General Mills",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 300,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 300,
+    "fat" : 6.0,
+    "fiber" : 9.0,
+    "carbs" : 60.0,
+    "sodium" : 420.0,
+    "protein" : 9.0
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25109716223,
+  "loggedFood" : {
+    "foodId" : 749133992,
+    "locale" : "en_US",
+    "name" : "Oat Yeah Oatmilk",
+    "brand" : "Silk",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 90,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 90,
+    "fat" : 3.5,
+    "fiber" : 1.0,
+    "carbs" : 14.0,
+    "sodium" : 105.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25108319074,
+  "loggedFood" : {
+    "foodId" : 693578329,
+    "locale" : "en_US",
+    "name" : "Pan Sear Teriyaki Sesame Salmon",
+    "brand" : "Sea Cuisine",
+    "accessLevel" : "PUBLIC",
+    "units" : [126,226,180,147,389],
+    "calories" : 480,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 126,
+      "name" : "fillet",
+      "plural" : "fillets"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 480,
+    "fat" : 24.0,
+    "fiber" : 0.0,
+    "carbs" : 20.0,
+    "sodium" : 940.0,
+    "protein" : 46.0
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25107709297,
+  "loggedFood" : {
+    "foodId" : 749133992,
+    "locale" : "en_US",
+    "name" : "Oat Yeah Oatmilk",
+    "brand" : "Silk",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 90,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 90,
+    "fat" : 3.5,
+    "fiber" : 1.0,
+    "carbs" : 14.0,
+    "sodium" : 105.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25106932858,
+  "loggedFood" : {
+    "foodId" : 65401,
+    "locale" : "en_US",
+    "name" : "Popover Mix",
+    "brand" : "King Arthur Flour",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 140,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25109065852,
+  "loggedFood" : {
+    "foodId" : 82031,
+    "locale" : "en_US",
+    "name" : "Leek",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [184,311,91,256,279,226,180,147,389],
+    "calories" : 52,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25107060159,
+  "loggedFood" : {
+    "foodId" : 81000,
+    "locale" : "en_US",
+    "name" : "Banana",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [16,121,120,304,319,204,179,91,256,279,226,180,147,389],
+    "calories" : 90,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25110266617,
+  "loggedFood" : {
+    "foodId" : 692810805,
+    "locale" : "en_US",
+    "name" : "Warrior Blend Raw Vegan Protein, Vanilla",
+    "brand" : "Sunwarrior",
+    "accessLevel" : "PUBLIC",
+    "units" : [301,226,180,147,389],
+    "calories" : 150,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 301,
+      "name" : "scoop",
+      "plural" : "scoops"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 150,
+    "fat" : 3.0,
+    "fiber" : 3.0,
+    "carbs" : 3.0,
+    "sodium" : 480.0,
+    "protein" : 28.5
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25105650758,
+  "loggedFood" : {
+    "foodId" : 81409,
+    "locale" : "en_US",
+    "name" : "Apple",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [204,179,226,180,147,389],
+    "calories" : 80,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25105767004,
+  "loggedFood" : {
+    "foodId" : 744930557,
+    "locale" : "en_US",
+    "name" : "Multi-Grain Bread",
+    "brand" : "Brownberry",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,226,180,147,389],
+    "calories" : 220,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 220,
+    "fat" : 4.0,
+    "fiber" : 6.0,
+    "carbs" : 38.0,
+    "sodium" : 340.0,
+    "protein" : 10.0
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25111076959,
+  "loggedFood" : {
+    "foodId" : 743952355,
+    "locale" : "en_US",
+    "name" : "Orange Marmalade",
+    "brand" : "Best Choice",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 50,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 50,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 13.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25110703236,
+  "loggedFood" : {
+    "foodId" : 22789286,
+    "locale" : "en_US",
+    "name" : "Almonds 50% Less Salt, Dry Roasted & Salted",
+    "brand" : "Trader Joe's Nuts",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 238,
+    "amount" : 0.33,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 238,
+    "fat" : 21.12,
+    "fiber" : 5.28,
+    "carbs" : 7.92,
+    "sodium" : 79.2,
+    "protein" : 9.24
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25108480749,
+  "loggedFood" : {
+    "foodId" : 721624070,
+    "locale" : "en_US",
+    "name" : "Grade A Large Eggs",
+    "brand" : "Country Line",
+    "accessLevel" : "PUBLIC",
+    "units" : [111,226,180,147,389],
+    "calories" : 280,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 111,
+      "name" : "egg",
+      "plural" : "eggs"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 280,
+    "fat" : 20.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 280.0,
+    "protein" : 24.0
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25102026797,
+  "loggedFood" : {
+    "foodId" : 721627886,
+    "locale" : "en_US",
+    "name" : "Psyllium Husk Powder, Organic",
+    "brand" : "Viva Naturals",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 15,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 364,
+      "name" : "tsp",
+      "plural" : "tsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 15,
+    "fat" : 0.0,
+    "fiber" : 4.0,
+    "carbs" : 4.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25102744705,
+  "loggedFood" : {
+    "foodId" : 14724782,
+    "locale" : "en_US",
+    "name" : "Creamy Peanut Butter",
+    "brand" : "Jif",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 190,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 190,
+    "fat" : 16.0,
+    "fiber" : 2.0,
+    "carbs" : 8.0,
+    "sodium" : 140.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25102331823,
+  "loggedFood" : {
+    "foodId" : 742324617,
+    "locale" : "en_US",
+    "name" : "Trop 50 Orange Juice",
+    "brand" : "Tropicana",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401],
+    "calories" : 50,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 50,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 13.0,
+    "sodium" : 10.0,
+    "protein" : 0.5
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25101859557,
+  "loggedFood" : {
+    "foodId" : 81000,
+    "locale" : "en_US",
+    "name" : "Banana",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [16,121,120,304,319,204,179,91,256,279,226,180,147,389],
+    "calories" : 90,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25102076153,
+  "loggedFood" : {
+    "foodId" : 692777597,
+    "locale" : "en_US",
+    "name" : "Oats",
+    "brand" : "Quaker",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 150,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 150,
+    "fat" : 3.0,
+    "fiber" : 4.0,
+    "carbs" : 27.0,
+    "sodium" : 0.0,
+    "protein" : 5.0
+  },
+  "logDate" : "2021-02-25",
+  "favorite" : false
+},{
+  "logId" : 25102095630,
+  "loggedFood" : {
+    "foodId" : 749133992,
+    "locale" : "en_US",
+    "name" : "Oat Yeah Oatmilk",
+    "brand" : "Silk",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 90,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 90,
+    "fat" : 3.5,
+    "fiber" : 1.0,
+    "carbs" : 14.0,
+    "sodium" : 105.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2021-02-24",
+  "favorite" : false
+},{
+  "logId" : 25102872925,
+  "loggedFood" : {
+    "foodId" : 14731799,
+    "locale" : "en_US",
+    "name" : "Cheerios",
+    "brand" : "General Mills",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 100,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 100,
+    "fat" : 2.0,
+    "fiber" : 3.0,
+    "carbs" : 20.0,
+    "sodium" : 140.0,
+    "protein" : 3.0
+  },
+  "logDate" : "2021-02-24",
+  "favorite" : false
+},{
+  "logId" : 25106381904,
+  "loggedFood" : {
+    "foodId" : 692018360,
+    "locale" : "en_US",
+    "name" : "Shoestring, French Fried Potatoes",
+    "brand" : "Best Choice",
+    "accessLevel" : "PUBLIC",
+    "units" : [251,226,180,147,389],
+    "calories" : 140,
+    "amount" : 33.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 140,
+    "fat" : 5.0,
+    "fiber" : 1.0,
+    "carbs" : 20.0,
+    "sodium" : 350.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2021-02-24",
+  "favorite" : false
+},{
+  "logId" : 25098446774,
+  "loggedFood" : {
+    "foodId" : 1935,
+    "locale" : "en_US",
+    "name" : "Roast Beef Sandwich, Plain",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [296,226,180,147,389],
+    "calories" : 346,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 296,
+      "name" : "sandwich",
+      "plural" : "sandwiches"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2021-02-24",
+  "favorite" : false
+},{
+  "logId" : 25094147433,
+  "loggedFood" : {
+    "foodId" : 721624070,
+    "locale" : "en_US",
+    "name" : "Grade A Large Eggs",
+    "brand" : "Country Line",
+    "accessLevel" : "PUBLIC",
+    "units" : [111,226,180,147,389],
+    "calories" : 210,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 111,
+      "name" : "egg",
+      "plural" : "eggs"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 210,
+    "fat" : 15.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 210.0,
+    "protein" : 18.0
+  },
+  "logDate" : "2021-02-24",
+  "favorite" : false
+},{
+  "logId" : 25086262691,
+  "loggedFood" : {
+    "foodId" : 743952355,
+    "locale" : "en_US",
+    "name" : "Orange Marmalade",
+    "brand" : "Best Choice",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 50,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 50,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 13.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2021-02-24",
+  "favorite" : false
+},{
+  "logId" : 25093311143,
+  "loggedFood" : {
+    "foodId" : 65401,
+    "locale" : "en_US",
+    "name" : "Popover Mix",
+    "brand" : "King Arthur Flour",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 140,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2021-02-24",
+  "favorite" : false
+},{
+  "logId" : 25092583101,
+  "loggedFood" : {
+    "foodId" : 744930557,
+    "locale" : "en_US",
+    "name" : "Multi-Grain Bread",
+    "brand" : "Brownberry",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,226,180,147,389],
+    "calories" : 220,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 220,
+    "fat" : 4.0,
+    "fiber" : 6.0,
+    "carbs" : 38.0,
+    "sodium" : 340.0,
+    "protein" : 10.0
+  },
+  "logDate" : "2021-02-24",
+  "favorite" : false
+},{
+  "logId" : 25084654181,
+  "loggedFood" : {
+    "foodId" : 742324617,
+    "locale" : "en_US",
+    "name" : "Trop 50 Orange Juice",
+    "brand" : "Tropicana",
+    "accessLevel" : "PUBLIC",
+    "units" : [209,189,128,364,349,91,256,279,401],
+    "calories" : 50,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 128,
+      "name" : "fl oz",
+      "plural" : "fl oz"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 50,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 13.0,
+    "sodium" : 10.0,
+    "protein" : 0.5
+  },
+  "logDate" : "2021-02-24",
+  "favorite" : false
+},{
+  "logId" : 25093557163,
+  "loggedFood" : {
+    "foodId" : 14724782,
+    "locale" : "en_US",
+    "name" : "Creamy Peanut Butter",
+    "brand" : "Jif",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 190,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 190,
+    "fat" : 16.0,
+    "fiber" : 2.0,
+    "carbs" : 8.0,
+    "sodium" : 140.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2021-02-24",
+  "favorite" : false
+},{
+  "logId" : 25092769972,
+  "loggedFood" : {
+    "foodId" : 692777597,
+    "locale" : "en_US",
+    "name" : "Oats",
+    "brand" : "Quaker",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 150,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 150,
+    "fat" : 3.0,
+    "fiber" : 4.0,
+    "carbs" : 27.0,
+    "sodium" : 0.0,
+    "protein" : 5.0
+  },
+  "logDate" : "2021-02-24",
+  "favorite" : false
+},{
+  "logId" : 25084988869,
+  "loggedFood" : {
+    "foodId" : 721627886,
+    "locale" : "en_US",
+    "name" : "Psyllium Husk Powder, Organic",
+    "brand" : "Viva Naturals",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 15,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 364,
+      "name" : "tsp",
+      "plural" : "tsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 15,
+    "fat" : 0.0,
+    "fiber" : 4.0,
+    "carbs" : 4.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2021-02-24",
+  "favorite" : false
+},{
+  "logId" : 25086306577,
+  "loggedFood" : {
+    "foodId" : 14731799,
+    "locale" : "en_US",
+    "name" : "Cheerios",
+    "brand" : "General Mills",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 100,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 100,
+    "fat" : 2.0,
+    "fiber" : 3.0,
+    "carbs" : 20.0,
+    "sodium" : 140.0,
+    "protein" : 3.0
+  },
+  "logDate" : "2021-02-23",
+  "favorite" : false
+},{
+  "logId" : 25085775050,
+  "loggedFood" : {
+    "foodId" : 749133992,
+    "locale" : "en_US",
+    "name" : "Oat Yeah Oatmilk",
+    "brand" : "Silk",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 90,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 90,
+    "fat" : 3.5,
+    "fiber" : 1.0,
+    "carbs" : 14.0,
+    "sodium" : 105.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2021-02-23",
+  "favorite" : false
+},{
+  "logId" : 25085022976,
+  "loggedFood" : {
+    "foodId" : 14725321,
+    "locale" : "en_US",
+    "name" : "Mixed Vegetables, Classic",
+    "brand" : "Birds Eye",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 59,
+    "amount" : 0.66,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 59,
+    "fat" : 0.0,
+    "fiber" : 1.97,
+    "carbs" : 10.84,
+    "sodium" : 49.25,
+    "protein" : 1.97
+  },
+  "logDate" : "2021-02-23",
+  "favorite" : false
+},{
+  "logId" : 25086233450,
+  "loggedFood" : {
+    "foodId" : 14638139,
+    "locale" : "en_US",
+    "name" : "Pasta Sauce, Traditional",
+    "brand" : "Our Family",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 80,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 80,
+    "fat" : 2.0,
+    "fiber" : 2.0,
+    "carbs" : 13.0,
+    "sodium" : 580.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2021-02-23",
+  "favorite" : false
+},{
+  "logId" : 25084432540,
+  "loggedFood" : {
+    "foodId" : 14723586,
+    "locale" : "en_US",
+    "name" : "Angle Hair",
+    "brand" : "Creamette",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,228,226,180,147,389],
+    "calories" : 578,
+    "amount" : 0.33,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 578,
+    "fat" : 2.75,
+    "fiber" : 5.5,
+    "carbs" : 115.5,
+    "sodium" : 0.0,
+    "protein" : 19.25
+  },
+  "logDate" : "2021-02-23",
+  "favorite" : false
+},{
+  "logId" : 25082985890,
+  "loggedFood" : {
+    "foodId" : 692793508,
+    "locale" : "en_US",
+    "name" : "Shrimp",
+    "brand" : "Shrimp",
+    "accessLevel" : "PUBLIC",
+    "units" : [309,226,180,147,389],
+    "calories" : 152,
+    "amount" : 13.0,
+    "unit" : {
+      "id" : 309,
+      "name" : "shrimp",
+      "plural" : "shrimps"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 152,
+    "fat" : 2.17,
+    "fiber" : 0.0,
+    "carbs" : 2.17,
+    "sodium" : 1159.17,
+    "protein" : 28.17
+  },
+  "logDate" : "2021-02-23",
+  "favorite" : false
+},{
+  "logId" : 25076275697,
+  "loggedFood" : {
+    "foodId" : 81409,
+    "locale" : "en_US",
+    "name" : "Apple",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [204,179,226,180,147,389],
+    "calories" : 80,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 4
+  },
+  "logDate" : "2021-02-23",
+  "favorite" : false
+},{
+  "logId" : 25077138853,
+  "loggedFood" : {
+    "foodId" : 743440253,
+    "locale" : "en_US",
+    "name" : "Jasmine Rice",
+    "brand" : "Tierra Latina",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 360,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 360,
+    "fat" : 0.0,
+    "fiber" : 2.0,
+    "carbs" : 80.0,
+    "sodium" : 0.0,
+    "protein" : 8.0
+  },
+  "logDate" : "2021-02-23",
+  "favorite" : false
+},{
+  "logId" : 25076577996,
+  "loggedFood" : {
+    "foodId" : 82308,
+    "locale" : "en_US",
+    "name" : "Chicken",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 251,
+    "amount" : 0.33,
+    "unit" : {
+      "id" : 180,
+      "name" : "lb",
+      "plural" : "lbs"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2021-02-23",
+  "favorite" : false
+},{
+  "logId" : 25076223970,
+  "loggedFood" : {
+    "foodId" : 81927,
+    "locale" : "en_US",
+    "name" : "Green Pepper, Sweet (bell)",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [288,341,319,204,179,349,364,91,256,279,226,180,147,389],
+    "calories" : 10,
+    "amount" : 0.12,
+    "unit" : {
+      "id" : 180,
+      "name" : "lb",
+      "plural" : "lbs"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2021-02-23",
+  "favorite" : false
+},{
+  "logId" : 25077178172,
+  "loggedFood" : {
+    "foodId" : 14724782,
+    "locale" : "en_US",
+    "name" : "Creamy Peanut Butter",
+    "brand" : "Jif",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 190,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 190,
+    "fat" : 16.0,
+    "fiber" : 2.0,
+    "carbs" : 8.0,
+    "sodium" : 140.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2021-02-23",
+  "favorite" : false
+},{
+  "logId" : 25077926100,
+  "loggedFood" : {
+    "foodId" : 81000,
+    "locale" : "en_US",
+    "name" : "Banana",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [16,121,120,304,319,204,179,91,256,279,226,180,147,389],
+    "calories" : 90,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2021-02-23",
+  "favorite" : false
+},{
+  "logId" : 25078506454,
+  "loggedFood" : {
+    "foodId" : 692777597,
+    "locale" : "en_US",
+    "name" : "Oats",
+    "brand" : "Quaker",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 150,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 150,
+    "fat" : 3.0,
+    "fiber" : 4.0,
+    "carbs" : 27.0,
+    "sodium" : 0.0,
+    "protein" : 5.0
+  },
+  "logDate" : "2021-02-23",
+  "favorite" : false
+},{
+  "logId" : 25067138623,
+  "loggedFood" : {
+    "foodId" : 65401,
+    "locale" : "en_US",
+    "name" : "Popover Mix",
+    "brand" : "King Arthur Flour",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 140,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2021-02-22",
+  "favorite" : false
+},{
+  "logId" : 25067118931,
+  "loggedFood" : {
+    "foodId" : 743440253,
+    "locale" : "en_US",
+    "name" : "Jasmine Rice",
+    "brand" : "Tierra Latina",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 360,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 360,
+    "fat" : 0.0,
+    "fiber" : 2.0,
+    "carbs" : 80.0,
+    "sodium" : 0.0,
+    "protein" : 8.0
+  },
+  "logDate" : "2021-02-22",
+  "favorite" : false
+},{
+  "logId" : 25068388247,
+  "loggedFood" : {
+    "foodId" : 81927,
+    "locale" : "en_US",
+    "name" : "Green Pepper, Sweet (bell)",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [288,341,319,204,179,349,364,91,256,279,226,180,147,389],
+    "calories" : 10,
+    "amount" : 0.12,
+    "unit" : {
+      "id" : 180,
+      "name" : "lb",
+      "plural" : "lbs"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2021-02-22",
+  "favorite" : false
+},{
+  "logId" : 25069716723,
+  "loggedFood" : {
+    "foodId" : 82308,
+    "locale" : "en_US",
+    "name" : "Chicken",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 251,
+    "amount" : 0.33,
+    "unit" : {
+      "id" : 180,
+      "name" : "lb",
+      "plural" : "lbs"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2021-02-22",
+  "favorite" : false
+},{
+  "logId" : 25058858566,
+  "loggedFood" : {
+    "foodId" : 756671830,
+    "locale" : "en_US",
+    "name" : "Graham Bear Bites, Honey",
+    "brand" : "Kodiak Cakes",
+    "accessLevel" : "PUBLIC",
+    "units" : [251,226,180,147,389],
+    "calories" : 120,
+    "amount" : 30.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 4
+  },
+  "nutritionalValues" : {
+    "calories" : 120,
+    "fat" : 3.5,
+    "fiber" : 1.0,
+    "carbs" : 18.0,
+    "sodium" : 190.0,
+    "protein" : 5.0
+  },
+  "logDate" : "2021-02-22",
+  "favorite" : false
+},{
+  "logId" : 25060465949,
+  "loggedFood" : {
+    "foodId" : 22789286,
+    "locale" : "en_US",
+    "name" : "Almonds 50% Less Salt, Dry Roasted & Salted",
+    "brand" : "Trader Joe's Nuts",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 360,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 360,
+    "fat" : 32.0,
+    "fiber" : 8.0,
+    "carbs" : 12.0,
+    "sodium" : 120.0,
+    "protein" : 14.0
+  },
+  "logDate" : "2021-02-22",
+  "favorite" : false
+},{
+  "logId" : 25053258569,
+  "loggedFood" : {
+    "foodId" : 721624070,
+    "locale" : "en_US",
+    "name" : "Grade A Large Eggs",
+    "brand" : "Country Line",
+    "accessLevel" : "PUBLIC",
+    "units" : [111,226,180,147,389],
+    "calories" : 210,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 111,
+      "name" : "egg",
+      "plural" : "eggs"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 210,
+    "fat" : 15.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 210.0,
+    "protein" : 18.0
+  },
+  "logDate" : "2021-02-22",
+  "favorite" : false
+},{
+  "logId" : 25059068785,
+  "loggedFood" : {
+    "foodId" : 743952355,
+    "locale" : "en_US",
+    "name" : "Orange Marmalade",
+    "brand" : "Best Choice",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 50,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 50,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 13.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2021-02-22",
+  "favorite" : false
+},{
+  "logId" : 25057033640,
+  "loggedFood" : {
+    "foodId" : 744930557,
+    "locale" : "en_US",
+    "name" : "Multi-Grain Bread",
+    "brand" : "Brownberry",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,226,180,147,389],
+    "calories" : 220,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 220,
+    "fat" : 4.0,
+    "fiber" : 6.0,
+    "carbs" : 38.0,
+    "sodium" : 340.0,
+    "protein" : 10.0
+  },
+  "logDate" : "2021-02-22",
+  "favorite" : false
+},{
+  "logId" : 25061213564,
+  "loggedFood" : {
+    "foodId" : 692777597,
+    "locale" : "en_US",
+    "name" : "Oats",
+    "brand" : "Quaker",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 150,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 150,
+    "fat" : 3.0,
+    "fiber" : 4.0,
+    "carbs" : 27.0,
+    "sodium" : 0.0,
+    "protein" : 5.0
+  },
+  "logDate" : "2021-02-22",
+  "favorite" : false
+},{
+  "logId" : 25060987336,
+  "loggedFood" : {
+    "foodId" : 14724782,
+    "locale" : "en_US",
+    "name" : "Creamy Peanut Butter",
+    "brand" : "Jif",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364,226,180,147,389],
+    "calories" : 190,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 190,
+    "fat" : 16.0,
+    "fiber" : 2.0,
+    "carbs" : 8.0,
+    "sodium" : 140.0,
+    "protein" : 7.0
+  },
+  "logDate" : "2021-02-22",
+  "favorite" : false
+},{
+  "logId" : 25049482598,
+  "loggedFood" : {
+    "foodId" : 14731823,
+    "locale" : "en_US",
+    "name" : "Toasted Oat Cereal",
+    "brand" : "Cheerios",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 200,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 200,
+    "fat" : 4.0,
+    "fiber" : 6.0,
+    "carbs" : 40.0,
+    "sodium" : 280.0,
+    "protein" : 6.0
+  },
+  "logDate" : "2021-02-21",
+  "favorite" : false
+},{
+  "logId" : 25044124779,
+  "loggedFood" : {
+    "foodId" : 749133992,
+    "locale" : "en_US",
+    "name" : "Oat Yeah Oatmilk",
+    "brand" : "Silk",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 90,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 90,
+    "fat" : 3.5,
+    "fiber" : 1.0,
+    "carbs" : 14.0,
+    "sodium" : 105.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2021-02-21",
+  "favorite" : false
+},{
+  "logId" : 25049333790,
+  "loggedFood" : {
+    "foodId" : 14527400,
+    "locale" : "en_US",
+    "name" : "Medium Shells",
+    "brand" : "Creamette",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 840,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 840,
+    "fat" : 4.0,
+    "fiber" : 8.0,
+    "carbs" : 168.0,
+    "sodium" : 0.0,
+    "protein" : 28.0
+  },
+  "logDate" : "2021-02-21",
+  "favorite" : false
+},{
+  "logId" : 25050622239,
+  "loggedFood" : {
+    "foodId" : 692793508,
+    "locale" : "en_US",
+    "name" : "Shrimp",
+    "brand" : "Shrimp",
+    "accessLevel" : "PUBLIC",
+    "units" : [309,226,180,147,389],
+    "calories" : 128,
+    "amount" : 11.0,
+    "unit" : {
+      "id" : 309,
+      "name" : "shrimp",
+      "plural" : "shrimps"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 128,
+    "fat" : 1.83,
+    "fiber" : 0.0,
+    "carbs" : 1.83,
+    "sodium" : 980.83,
+    "protein" : 23.83
+  },
+  "logDate" : "2021-02-21",
+  "favorite" : false
+},{
+  "logId" : 25051556665,
+  "loggedFood" : {
+    "foodId" : 14638139,
+    "locale" : "en_US",
+    "name" : "Pasta Sauce, Traditional",
+    "brand" : "Our Family",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 80,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 80,
+    "fat" : 2.0,
+    "fiber" : 2.0,
+    "carbs" : 13.0,
+    "sodium" : 580.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2021-02-21",
+  "favorite" : false
+},{
+  "logId" : 25049402619,
+  "loggedFood" : {
+    "foodId" : 14725321,
+    "locale" : "en_US",
+    "name" : "Mixed Vegetables, Classic",
+    "brand" : "Birds Eye",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 59,
+    "amount" : 0.66,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 59,
+    "fat" : 0.0,
+    "fiber" : 1.97,
+    "carbs" : 10.84,
+    "sodium" : 49.25,
+    "protein" : 1.97
+  },
+  "logDate" : "2021-02-21",
+  "favorite" : false
+},{
+  "logId" : 25042596735,
+  "loggedFood" : {
+    "foodId" : 82003,
+    "locale" : "en_US",
+    "name" : "Beef Brisket, Whole",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 419,
+    "amount" : 0.33,
+    "unit" : {
+      "id" : 180,
+      "name" : "lb",
+      "plural" : "lbs"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2021-02-21",
+  "favorite" : false
+},{
+  "logId" : 25042753935,
+  "loggedFood" : {
+    "foodId" : 81483,
+    "locale" : "en_US",
+    "name" : "Brussels Sprouts",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [330,304,91,256,279,226,180,147,389],
+    "calories" : 40,
+    "amount" : 5.0,
+    "unit" : {
+      "id" : 330,
+      "name" : "sprout",
+      "plural" : "sprouts"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2021-02-21",
+  "favorite" : false
+},{
+  "logId" : 25041475357,
+  "loggedFood" : {
+    "foodId" : 692810805,
+    "locale" : "en_US",
+    "name" : "Warrior Blend Raw Vegan Protein, Vanilla",
+    "brand" : "Sunwarrior",
+    "accessLevel" : "PUBLIC",
+    "units" : [301,226,180,147,389],
+    "calories" : 150,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 301,
+      "name" : "scoop",
+      "plural" : "scoops"
+    },
+    "mealTypeId" : 2
+  },
+  "nutritionalValues" : {
+    "calories" : 150,
+    "fat" : 3.0,
+    "fiber" : 3.0,
+    "carbs" : 3.0,
+    "sodium" : 480.0,
+    "protein" : 28.5
+  },
+  "logDate" : "2021-02-21",
+  "favorite" : false
+},{
+  "logId" : 25039823405,
+  "loggedFood" : {
+    "foodId" : 14543043,
+    "locale" : "en_US",
+    "name" : "Pure Almond, Unsweetened",
+    "brand" : "Silk",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 30,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 2
+  },
+  "nutritionalValues" : {
+    "calories" : 30,
+    "fat" : 2.5,
+    "fiber" : 0.5,
+    "carbs" : 0.5,
+    "sodium" : 160.0,
+    "protein" : 1.0
+  },
+  "logDate" : "2021-02-21",
+  "favorite" : false
+},{
+  "logId" : 25040785684,
+  "loggedFood" : {
+    "foodId" : 5531380,
+    "locale" : "en_US",
+    "name" : "Eggs, Grade A White Eggs, Large",
+    "brand" : "Eggland's Best",
+    "accessLevel" : "PUBLIC",
+    "units" : [111,226,180,147,389],
+    "calories" : 280,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 111,
+      "name" : "egg",
+      "plural" : "eggs"
+    },
+    "mealTypeId" : 1,
+    "creatorEncodedId" : "26BN3F"
+  },
+  "logDate" : "2021-02-21",
+  "favorite" : false
+},{
+  "logId" : 25040913746,
+  "loggedFood" : {
+    "foodId" : 750893112,
+    "locale" : "en_US",
+    "name" : "Oatnut Bread",
+    "brand" : "Brownberry",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,226,180,147,389],
+    "calories" : 240,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 240,
+    "fat" : 5.0,
+    "fiber" : 4.0,
+    "carbs" : 42.0,
+    "sodium" : 300.0,
+    "protein" : 8.0
+  },
+  "logDate" : "2021-02-21",
+  "favorite" : false
+},{
+  "logId" : 25040077953,
+  "loggedFood" : {
+    "foodId" : 81483,
+    "locale" : "en_US",
+    "name" : "Brussels Sprouts",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [330,304,91,256,279,226,180,147,389],
+    "calories" : 80,
+    "amount" : 10.0,
+    "unit" : {
+      "id" : 330,
+      "name" : "sprout",
+      "plural" : "sprouts"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2021-02-20",
+  "favorite" : false
+},{
+  "logId" : 25039576493,
+  "loggedFood" : {
+    "foodId" : 82003,
+    "locale" : "en_US",
+    "name" : "Beef Brisket, Whole",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 318,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 180,
+      "name" : "lb",
+      "plural" : "lbs"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2021-02-20",
+  "favorite" : false
+},{
+  "logId" : 25039998685,
+  "loggedFood" : {
+    "foodId" : 81086,
+    "locale" : "en_US",
+    "name" : "Peach Cobbler",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [228,304,226,180,147,389],
+    "calories" : 133,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2021-02-20",
+  "favorite" : false
+},{
+  "logId" : 25033707801,
+  "loggedFood" : {
+    "foodId" : 81002,
+    "locale" : "en_US",
+    "name" : "Onion",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [288,316,311,319,204,179,304,349,364,91,256,279,226,180,147,389],
+    "calories" : 39,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2021-02-20",
+  "favorite" : false
+},{
+  "logId" : 25033363775,
+  "loggedFood" : {
+    "foodId" : 14673847,
+    "locale" : "en_US",
+    "name" : "Pecans",
+    "brand" : "Hy-Vee",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 190,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 190,
+    "fat" : 19.0,
+    "fiber" : 2.0,
+    "carbs" : 5.0,
+    "sodium" : 0.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2021-02-20",
+  "favorite" : false
+},{
+  "logId" : 25034101329,
+  "loggedFood" : {
+    "foodId" : 81927,
+    "locale" : "en_US",
+    "name" : "Green Pepper, Sweet (bell)",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [288,341,319,204,179,349,364,91,256,279,226,180,147,389],
+    "calories" : 29,
+    "amount" : 0.33,
+    "unit" : {
+      "id" : 180,
+      "name" : "lb",
+      "plural" : "lbs"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2021-02-20",
+  "favorite" : false
+},{
+  "logId" : 25032173673,
+  "loggedFood" : {
+    "foodId" : 81412,
+    "locale" : "en_US",
+    "name" : "Spinach",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [38,181,304,91,256,279,226,180,147,389],
+    "calories" : 40,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2021-02-20",
+  "favorite" : false
+},{
+  "logId" : 25035016089,
+  "loggedFood" : {
+    "foodId" : 30245,
+    "locale" : "en_US",
+    "name" : "Italian Sausage, Cooked",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [188,226,180,147,389],
+    "calories" : 641,
+    "amount" : 2.25,
+    "unit" : {
+      "id" : 188,
+      "name" : "link",
+      "plural" : "links"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2021-02-20",
+  "favorite" : false
+},{
+  "logId" : 25033757108,
+  "loggedFood" : {
+    "foodId" : 692153358,
+    "locale" : "en_US",
+    "name" : "French Loaf",
+    "brand" : "La Brea Bakery",
+    "accessLevel" : "PUBLIC",
+    "units" : [191,226,180,147,389],
+    "calories" : 381,
+    "amount" : 0.33,
+    "unit" : {
+      "id" : 191,
+      "name" : "loaf",
+      "plural" : "loaves"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 381,
+    "fat" : 1.27,
+    "fiber" : 2.54,
+    "carbs" : 76.15,
+    "sodium" : 888.46,
+    "protein" : 12.69
+  },
+  "logDate" : "2021-02-20",
+  "favorite" : false
+},{
+  "logId" : 25035130918,
+  "loggedFood" : {
+    "foodId" : 14543043,
+    "locale" : "en_US",
+    "name" : "Pure Almond, Unsweetened",
+    "brand" : "Silk",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 60,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 2
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 5.0,
+    "fiber" : 1.0,
+    "carbs" : 1.0,
+    "sodium" : 320.0,
+    "protein" : 2.0
+  },
+  "logDate" : "2021-02-20",
+  "favorite" : false
+},{
+  "logId" : 25034963898,
+  "loggedFood" : {
+    "foodId" : 692810805,
+    "locale" : "en_US",
+    "name" : "Warrior Blend Raw Vegan Protein, Vanilla",
+    "brand" : "Sunwarrior",
+    "accessLevel" : "PUBLIC",
+    "units" : [301,226,180,147,389],
+    "calories" : 150,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 301,
+      "name" : "scoop",
+      "plural" : "scoops"
+    },
+    "mealTypeId" : 2
+  },
+  "nutritionalValues" : {
+    "calories" : 150,
+    "fat" : 3.0,
+    "fiber" : 3.0,
+    "carbs" : 3.0,
+    "sodium" : 480.0,
+    "protein" : 28.5
+  },
+  "logDate" : "2021-02-20",
+  "favorite" : false
+},{
+  "logId" : 25033899345,
+  "loggedFood" : {
+    "foodId" : 5531380,
+    "locale" : "en_US",
+    "name" : "Eggs, Grade A White Eggs, Large",
+    "brand" : "Eggland's Best",
+    "accessLevel" : "PUBLIC",
+    "units" : [111,226,180,147,389],
+    "calories" : 210,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 111,
+      "name" : "egg",
+      "plural" : "eggs"
+    },
+    "mealTypeId" : 1,
+    "creatorEncodedId" : "26BN3F"
+  },
+  "logDate" : "2021-02-20",
+  "favorite" : false
+},{
+  "logId" : 25032620504,
+  "loggedFood" : {
+    "foodId" : 82925,
+    "locale" : "en_US",
+    "name" : "Orange Marmalade",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 42,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2021-02-20",
+  "favorite" : false
+},{
+  "logId" : 25031272926,
+  "loggedFood" : {
+    "foodId" : 82856,
+    "locale" : "en_US",
+    "name" : "Sourdough Toast",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,304],
+    "calories" : 251,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2021-02-20",
+  "favorite" : false
+},{
+  "logId" : 25034961504,
+  "loggedFood" : {
+    "foodId" : 81569,
+    "locale" : "en_US",
+    "name" : "Chicken Wings, Buffalo",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [383,304,251,226,180,147,389],
+    "calories" : 946,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 180,
+      "name" : "lb",
+      "plural" : "lbs"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2021-02-19",
+  "favorite" : false
+},{
+  "logId" : 25024805140,
+  "loggedFood" : {
+    "foodId" : 82925,
+    "locale" : "en_US",
+    "name" : "Orange Marmalade",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,349,364,226,180,147,389],
+    "calories" : 42,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2021-02-19",
+  "favorite" : false
+},{
+  "logId" : 25025856789,
+  "loggedFood" : {
+    "foodId" : 766433815,
+    "locale" : "en_US",
+    "name" : "Asian Avocado Salad Kit",
+    "brand" : "Fresh Express",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 150,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 150,
+    "fat" : 9.0,
+    "fiber" : 2.0,
+    "carbs" : 14.0,
+    "sodium" : 250.0,
+    "protein" : 3.0
+  },
+  "logDate" : "2021-02-19",
+  "favorite" : false
+},{
+  "logId" : 25025011811,
+  "loggedFood" : {
+    "foodId" : 81120,
+    "locale" : "en_US",
+    "name" : "Pork",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 139,
+    "amount" : 0.12,
+    "unit" : {
+      "id" : 180,
+      "name" : "lb",
+      "plural" : "lbs"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2021-02-19",
+  "favorite" : false
+},{
+  "logId" : 25025700463,
+  "loggedFood" : {
+    "foodId" : 750893112,
+    "locale" : "en_US",
+    "name" : "Oatnut Bread",
+    "brand" : "Brownberry",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,226,180,147,389],
+    "calories" : 240,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 240,
+    "fat" : 5.0,
+    "fiber" : 4.0,
+    "carbs" : 42.0,
+    "sodium" : 300.0,
+    "protein" : 8.0
+  },
+  "logDate" : "2021-02-19",
+  "favorite" : false
+},{
+  "logId" : 25025326730,
+  "loggedFood" : {
+    "foodId" : 692822333,
+    "locale" : "en_US",
+    "name" : "Almonds, Dry Roasted & Salted",
+    "brand" : "Trader Joe's",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 340,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 340,
+    "fat" : 30.0,
+    "fiber" : 8.0,
+    "carbs" : 10.0,
+    "sodium" : 230.0,
+    "protein" : 14.0
+  },
+  "logDate" : "2021-02-19",
+  "favorite" : false
+}]

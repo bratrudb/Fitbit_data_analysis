@@ -1,0 +1,3 @@
+order.confirmation_number,transaction_date,raw_request,raw_response,response_code,amount
+1mh63u1cco3cm,2020-08-18 18:38:48.0,type=auth&processor=DIGITALRIVER,transactionId=DigitalRiver_34ae43b9-be8a-4001-83f8-7cda50152d44,100,165.96
+1mh63u1cco3cm,2020-08-18 19:58:01.0,type=capture&processor=DIGITALRIVER,transactionId=DigitalRiver_f6314db8-d65c-4bff-8da6-531a4b270f88,100,165.96

@@ -1,0 +1,702 @@
+[{
+  "logId" : 23074004868,
+  "loggedFood" : {
+    "foodId" : 730347563,
+    "locale" : "en_US",
+    "name" : "Honey Nut Bread",
+    "brand" : "Brownberry",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,226,180,147,389],
+    "calories" : 260,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 260,
+    "fat" : 6.0,
+    "fiber" : 2.0,
+    "carbs" : 44.0,
+    "sodium" : 340.0,
+    "protein" : 8.0
+  },
+  "logDate" : "2020-08-28",
+  "favorite" : false
+},{
+  "logId" : 23057823139,
+  "loggedFood" : {
+    "foodId" : 549330193,
+    "locale" : "en_US",
+    "name" : "Boneless Chicken",
+    "brand" : "Domino's",
+    "accessLevel" : "PUBLIC",
+    "units" : [251],
+    "calories" : 200,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 251,
+      "name" : "piece",
+      "plural" : "pieces"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 200,
+    "fat" : 9.33,
+    "fiber" : 0.0,
+    "carbs" : 13.33,
+    "sodium" : 786.67,
+    "protein" : 16.0
+  },
+  "logDate" : "2020-08-26",
+  "favorite" : false
+},{
+  "logId" : 23065438931,
+  "loggedFood" : {
+    "foodId" : 721555331,
+    "locale" : "en_US",
+    "name" : "Tortilla",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [359,226,180,147,389],
+    "calories" : 160,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 359,
+      "name" : "tortilla",
+      "plural" : "tortillas"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 160,
+    "fat" : 2.0,
+    "fiber" : 2.0,
+    "carbs" : 32.0,
+    "sodium" : 20.0,
+    "protein" : 4.0
+  },
+  "logDate" : "2020-08-26",
+  "favorite" : false
+},{
+  "logId" : 23054352933,
+  "loggedFood" : {
+    "foodId" : 14604197,
+    "locale" : "en_US",
+    "name" : "Fresh Frozen Mixed Berries",
+    "brand" : "Wyman's",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 60,
+    "amount" : 0.75,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 0.0,
+    "fiber" : 4.0,
+    "carbs" : 15.0,
+    "sodium" : 0.0,
+    "protein" : 1.0
+  },
+  "logDate" : "2020-08-26",
+  "favorite" : false
+},{
+  "logId" : 23054923562,
+  "loggedFood" : {
+    "foodId" : 748262874,
+    "locale" : "en_US",
+    "name" : "Plant Protein Powder, Vanilla",
+    "brand" : "Simply balanced",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 120,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 120,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 9.0,
+    "sodium" : 420.0,
+    "protein" : 13.0
+  },
+  "logDate" : "2020-08-26",
+  "favorite" : false
+},{
+  "logId" : 23044203563,
+  "loggedFood" : {
+    "foodId" : 81000,
+    "locale" : "en_US",
+    "name" : "Banana",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [16,121,120,304,319,204,179,91,256,279,226,180,147,389],
+    "calories" : 90,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2020-08-26",
+  "favorite" : false
+},{
+  "logId" : 23045777993,
+  "loggedFood" : {
+    "foodId" : 20616,
+    "locale" : "en_US",
+    "name" : "Oatmeal, Dry",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 156,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2020-08-26",
+  "favorite" : false
+},{
+  "logId" : 23045600642,
+  "loggedFood" : {
+    "foodId" : 724259815,
+    "locale" : "en_US",
+    "name" : "Unsweetened Almond Milk",
+    "brand" : "Silk",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 40,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 40,
+    "fat" : 3.5,
+    "fiber" : 0.5,
+    "carbs" : 0.5,
+    "sodium" : 160.0,
+    "protein" : 1.0
+  },
+  "logDate" : "2020-08-26",
+  "favorite" : false
+},{
+  "logId" : 23043583629,
+  "loggedFood" : {
+    "foodId" : 82699,
+    "locale" : "en_US",
+    "name" : "Kale",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 50,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2020-08-26",
+  "favorite" : false
+},{
+  "logId" : 23042587664,
+  "loggedFood" : {
+    "foodId" : 14731783,
+    "locale" : "en_US",
+    "name" : "Golden Grahams Cereal",
+    "brand" : "Golden Grahams",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 240,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 240,
+    "fat" : 2.0,
+    "fiber" : 4.0,
+    "carbs" : 54.0,
+    "sodium" : 480.0,
+    "protein" : 4.0
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23044938769,
+  "loggedFood" : {
+    "foodId" : 724259815,
+    "locale" : "en_US",
+    "name" : "Unsweetened Almond Milk",
+    "brand" : "Silk",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 40,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 6
+  },
+  "nutritionalValues" : {
+    "calories" : 40,
+    "fat" : 3.5,
+    "fiber" : 0.5,
+    "carbs" : 0.5,
+    "sodium" : 160.0,
+    "protein" : 1.0
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23042527809,
+  "loggedFood" : {
+    "foodId" : 692830197,
+    "locale" : "en_US",
+    "name" : "Bun",
+    "brand" : "Unknown",
+    "accessLevel" : "PUBLIC",
+    "units" : [37,226,180,147,389],
+    "calories" : 140,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 37,
+      "name" : "bun",
+      "plural" : "buns"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 140,
+    "fat" : 2.0,
+    "fiber" : 0.0,
+    "carbs" : 25.0,
+    "sodium" : 240.0,
+    "protein" : 4.0
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23040953949,
+  "loggedFood" : {
+    "foodId" : 82529,
+    "locale" : "en_US",
+    "name" : "Turkey Burger",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,296,251,226,180,147,389],
+    "calories" : 687,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23045823624,
+  "loggedFood" : {
+    "foodId" : 691998186,
+    "locale" : "en_US",
+    "name" : "Pickle Spear",
+    "brand" : "McAlister's Deli",
+    "accessLevel" : "PUBLIC",
+    "units" : [324],
+    "calories" : 0,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 324,
+      "name" : "spear",
+      "plural" : "spears"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 0,
+    "fat" : 0.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 380.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23042793439,
+  "loggedFood" : {
+    "foodId" : 81939,
+    "locale" : "en_US",
+    "name" : "Bratwurst (brotwurst)",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [387,188],
+    "calories" : 300,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 387,
+      "name" : "wurst",
+      "plural" : "wursts"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23045567981,
+  "loggedFood" : {
+    "foodId" : 16727,
+    "locale" : "en_US",
+    "name" : "Arugula, Raw",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [181,91,256,279,226,180,147,389],
+    "calories" : 0,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23044269300,
+  "loggedFood" : {
+    "foodId" : 81607,
+    "locale" : "en_US",
+    "name" : "French Fries",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [204,304,319,179,226,180,147,389],
+    "calories" : 427,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23045170696,
+  "loggedFood" : {
+    "foodId" : 81003,
+    "locale" : "en_US",
+    "name" : "Salmon",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [304,226,180,147,389],
+    "calories" : 381,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 304,
+      "name" : "serving",
+      "plural" : "servings"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23044885521,
+  "loggedFood" : {
+    "foodId" : 730347563,
+    "locale" : "en_US",
+    "name" : "Honey Nut Bread",
+    "brand" : "Brownberry",
+    "accessLevel" : "PUBLIC",
+    "units" : [311,226,180,147,389],
+    "calories" : 260,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 311,
+      "name" : "slice",
+      "plural" : "slices"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 260,
+    "fat" : 6.0,
+    "fiber" : 2.0,
+    "carbs" : 44.0,
+    "sodium" : 340.0,
+    "protein" : 8.0
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23042248748,
+  "loggedFood" : {
+    "foodId" : 5531380,
+    "locale" : "en_US",
+    "name" : "Eggs, Grade A White Eggs, Large",
+    "brand" : "Eggland's Best",
+    "accessLevel" : "PUBLIC",
+    "units" : [111,226,180,147,389],
+    "calories" : 210,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 111,
+      "name" : "egg",
+      "plural" : "eggs"
+    },
+    "mealTypeId" : 3,
+    "creatorEncodedId" : "26BN3F"
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23044088389,
+  "loggedFood" : {
+    "foodId" : 14724443,
+    "locale" : "en_US",
+    "name" : "Orzo",
+    "brand" : "Barilla",
+    "accessLevel" : "PUBLIC",
+    "units" : [29,29,226,180,147,389],
+    "calories" : 246,
+    "amount" : 0.16,
+    "unit" : {
+      "id" : 29,
+      "name" : "box",
+      "plural" : "boxes"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 246,
+    "fat" : 1.23,
+    "fiber" : 2.46,
+    "carbs" : 51.69,
+    "sodium" : 0.0,
+    "protein" : 8.62
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23046016881,
+  "loggedFood" : {
+    "foodId" : 82004,
+    "locale" : "en_US",
+    "name" : "Pesto Sauce",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [400,349,364,226,180,147,389],
+    "calories" : 100,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23042612595,
+  "loggedFood" : {
+    "foodId" : 82004,
+    "locale" : "en_US",
+    "name" : "Pesto Sauce",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [400,349,364,226,180,147,389],
+    "calories" : 100,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 3
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23043909388,
+  "loggedFood" : {
+    "foodId" : 81000,
+    "locale" : "en_US",
+    "name" : "Banana",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [16,121,120,304,319,204,179,91,256,279,226,180,147,389],
+    "calories" : 90,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23040918576,
+  "loggedFood" : {
+    "foodId" : 20616,
+    "locale" : "en_US",
+    "name" : "Oatmeal, Dry",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 156,
+    "amount" : 0.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23042551704,
+  "loggedFood" : {
+    "foodId" : 739891103,
+    "locale" : "en_US",
+    "name" : "Protein Shake, Vanilla",
+    "brand" : "Garden of Life",
+    "accessLevel" : "PUBLIC",
+    "units" : [301,226,180,147,389],
+    "calories" : 110,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 301,
+      "name" : "scoop",
+      "plural" : "scoops"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 110,
+    "fat" : 2.0,
+    "fiber" : 1.0,
+    "carbs" : 2.0,
+    "sodium" : 170.0,
+    "protein" : 20.0
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23043673265,
+  "loggedFood" : {
+    "foodId" : 14604197,
+    "locale" : "en_US",
+    "name" : "Fresh Frozen Mixed Berries",
+    "brand" : "Wyman's",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 60,
+    "amount" : 0.75,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 0.0,
+    "fiber" : 4.0,
+    "carbs" : 15.0,
+    "sodium" : 0.0,
+    "protein" : 1.0
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23041439966,
+  "loggedFood" : {
+    "foodId" : 692794983,
+    "locale" : "en_US",
+    "name" : "Almond Milk",
+    "brand" : "Silk",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279],
+    "calories" : 60,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 60,
+    "fat" : 2.5,
+    "fiber" : 0.5,
+    "carbs" : 8.0,
+    "sodium" : 160.0,
+    "protein" : 1.0
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+},{
+  "logId" : 23033563388,
+  "loggedFood" : {
+    "foodId" : 82699,
+    "locale" : "en_US",
+    "name" : "Kale",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 50,
+    "amount" : 1.5,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2020-08-25",
+  "favorite" : false
+}]

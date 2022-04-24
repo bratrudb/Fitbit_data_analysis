@@ -1,0 +1,6 @@
+entry_id,log_time,log_type,value,meta,entry_category,zone_offset
+4134e010-cd89-11eb-9953-13ab4a643867,2021-06-14T22:24:52,MOOD,1,{platform=mobile, source=Home},MOOD,-05:00
+dd5ea2f0-caaa-11eb-8a10-cba2ee65b5cc,2021-06-11T06:47:53,MOOD,0,{platform=mobile, source=Home},MOOD,-05:00
+2f02b470-c3b7-11eb-958f-b9b2b4dd9f20,2021-06-02T10:28:26,MOOD,1,{platform=mobile, source=Stress},MOOD,-05:00
+33e51f60-c253-11eb-9e30-1db5d88d1442,2021-05-31T16:00:14,MOOD,1,{platform=mobile, source=Stress},MOOD,-05:00
+500e8640-c230-11eb-8287-11f37f8afa2d,2021-05-31T11:50:25,MOOD,1,{platform=mobile, source=Stress Onboarding},MOOD,-05:00

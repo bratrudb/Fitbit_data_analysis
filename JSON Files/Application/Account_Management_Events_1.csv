@@ -1,0 +1,9 @@
+timestamp,event_name,email,location,ip,outcome,reason
+Fri Jan 28 19:14:41 UTC 2022,changePassword,benjamin.bratrud@gmail.com,"Minneapolis, MN, United States",73.164.99.74,SUCCESS,completedPasswordChange
+Thu Oct 14 15:02:30 UTC 2021,Update profile data,benjamin.bratrud@gmail.com,"Minneapolis, MN, United States",73.164.99.74,SUCCESS,
+Thu Sep 02 15:14:55 UTC 2021,Update profile data,benjamin.bratrud@gmail.com,"North Bergen, NJ, United States",174.206.164.222,SUCCESS,
+Sun Aug 29 02:01:38 UTC 2021,Update profile data,benjamin.bratrud@gmail.com,"Minneapolis, MN, United States",174.219.0.133,SUCCESS,
+Fri Aug 06 14:49:41 UTC 2021,Update profile data,benjamin.bratrud@gmail.com,"Denver, CO, United States",174.198.153.82,SUCCESS,
+Sun May 16 18:20:57 UTC 2021,Update profile data,benjamin.bratrud@gmail.com,"Minneapolis, MN, United States",174.219.143.129,SUCCESS,
+Thu May 13 03:07:22 UTC 2021,Update profile data,benjamin.bratrud@gmail.com,"Irvine, CA, United States",174.195.206.146,SUCCESS,
+Tue Mar 09 12:43:09 UTC 2021,Update profile data,benjamin.bratrud@gmail.com,"Minneapolis, MN, United States",73.88.46.198,SUCCESS,
